@@ -1,0 +1,4 @@
+01	cinema1	adresse1
+02	cinema2	adresse2
+03	cinema3	adresse3
+04	cinema4	adresse4
